@@ -9,7 +9,7 @@ from geopy.geocoders import Nominatim
 
 # ---------------- CONFIG ----------------
 st.set_page_config(page_title="CivicSense Smart", page_icon="🏛", layout="wide")
-ADMIN_PASSWORD = "Civic@2026Secure"
+ADMIN_PASSWORD = "Quddus@098"
 
 # ---------------- DB (SQLite) ----------------
 conn = sqlite3.connect("civic.db", check_same_thread=False)
