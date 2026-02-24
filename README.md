@@ -2,6 +2,8 @@
 
 **CivicSense Smart – Digital Civic Complaint Management System**
 
+**APP PREVIEW LINK :** https://civic-sense-app-wrz45uvdxn3aeezj5mbtuu.streamlit.app/
+
 CivicSense Smart is a web-based application developed using Streamlit that enables citizens to report civic issues quickly and accurately while providing authorities with a powerful dashboard to monitor and resolve problems efficiently. The system bridges the gap between the public and government by offering a simple, location-based complaint reporting platform supported by real-time visual insights.
 
 In the citizen module, users can submit complaints by entering their name and phone number, selecting the type of issue (such as road damage, water leakage, sewage problems, street dogs, or garbage), uploading an image as proof, and selecting the exact location using an interactive map. The application also allows users to search for their area first and then pinpoint the precise spot on the map, ensuring accurate reporting. All complaint details, including image data and geographic coordinates, are securely stored in the database.
